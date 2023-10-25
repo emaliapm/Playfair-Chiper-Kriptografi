@@ -1,1 +1,25 @@
 # Playfair-Chiper-Kriptografi
+# Output
+
+1. Encryption
+2. Decryption:
+3. EXIT
+1
+Enter key: JALAN GANESHA SEPULUH
+Key Used for encryption: ALNGESHPUBCDFIKMOQRTVWXYZ
+ENTER MSG: TEMUI IBU NANTI MALAM
+CIPHER TEXT: ZB RS FY KU PG LG RK VS NL QV
+
+1. Encryption
+2. Decryption:
+3. EXIT
+2
+Enter key: JALAN GANESHA SEPULUH
+Key Used for encryption: ALNGESHPUBCDFIKMOQRTVWXYZ
+ENTER CIPHER TEXT: ZB RS FY KU PG LG RK VS NL QV
+PLAIN TEXT: TE MU IX IB UN AN TI MA LA MX
+
+1. Encryption
+2. Decryption:
+3. EXIT
+3
